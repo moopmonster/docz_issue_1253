@@ -32,3 +32,5 @@ export const Alert: SFC<AlertProps> = ({ children, kind, ...rest }) => (
     {children}
   </div>
 )
+
+export default Alert;
