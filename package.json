@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "*"
+    ]
+  },
+  "name": "docs",
+  "version": "2.0.0-rc.58",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd docs && yarn run build",
+    "dev": "cd docs && yarn run dev",
+    "serve": "cd docs && yarn run serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "dependencies": {}
+}

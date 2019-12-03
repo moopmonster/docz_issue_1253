@@ -1,2 +1,8 @@
-# docz_issue_1253
-docz_issue_1253
+```sh
+yarn 
+yarn dev
+```
+
+
+# /newtest - created with create-react-app
+# /docs - copied from monorepo-separate-docs
